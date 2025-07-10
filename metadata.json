@@ -1,0 +1,6 @@
+{
+  "name": "XL Beats Music Hub",
+  "description": "An immersive music player and hub for the producer XL Beats. Discover albums, singles, and unlock achievements. Features administrative tools for content management powered by Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
